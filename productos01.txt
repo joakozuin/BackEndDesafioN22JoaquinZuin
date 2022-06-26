@@ -1,0 +1,13 @@
+
+   
+    titulo:'Escuadra',
+    precio:20000,
+    thumbnail:"https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-128.png"
+  
+    titulo:'Lapiz',
+    precio:50,
+    thumbnail:"https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-128.png"
+  
+    titulo:'Calculadora',
+    precio:5000,
+    thumbnail:"https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-128.png"

@@ -1,0 +1,30 @@
+{
+  "name": "BackEndDesafioN16JoaquinZuin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "daemon": "^1.1.0",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.8",
+    "express-handlebars": "^6.0.6",
+    "faker": "^6.6.6",
+    "knex": "^2.1.0",
+    "mysql": "^2.18.1",
+    "normalizr": "^3.6.2",
+    "pug": "^3.0.2",
+    "socket.io": "^4.5.1",
+    "sqlite3": "^5.0.8"
+  }
+}
